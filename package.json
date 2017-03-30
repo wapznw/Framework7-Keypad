@@ -4,7 +4,7 @@
   "description": "Keypad plugin extends Framework7 with additional custom keyboards",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nolimits4web/Framework7-Keypad.git"
+    "url": "https://github.com/wapznw/Framework7-Keypad.git"
   },
   "keywords": ["mobile", "framework", "ios 7", "ios7", "ios8", "ios 8", "iphone", "ipad", "apple", "phonegap", "native", "touch", "appstore", "app", "f7"],
   "author": "Vladimir Kharlampidi",
